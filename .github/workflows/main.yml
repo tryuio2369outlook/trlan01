@@ -1,1 +1,4 @@
-name: Masoud
+name: Mes
+
+on:
+    workflow_dispatch
